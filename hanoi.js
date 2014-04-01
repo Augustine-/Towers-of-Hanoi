@@ -52,5 +52,3 @@
     }
   }
 })(this);
-
-// this.Hanoi.Game is a constructor function, so we instantiate a new object, then run it.
